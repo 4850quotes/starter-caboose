@@ -1,0 +1,6 @@
+Changelog for 4850 - Caboose lab - week 7
+yyyy-mm-dd:hh24:mm - message
+
+2016-02-18:14:04 - step 3 complete - rating widget complete. lab complete.
+2016-02-18:13:04 - step 2 complete - implemented caboose
+2016-02-18:12:52 - step 1 complete - enabled hooks are set to true. 

@@ -1,3 +1,17 @@
+Team members: 
+Liz, 
+Joti 
+
+Conventions:
+allman style 
+camel case
+
+Responsibilites:
+Joti fix even links
+Liz fix odd links
+all users commit messages must have some meaning
+
+
 ###################################
 Tutorial 5 Starter Webapp - Caboose
 ###################################
