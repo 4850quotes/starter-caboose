@@ -1,14 +1,12 @@
-Team members: 
-Liz, 
-Joti 
+Team members: Liz, Joti
 
-Conventions:
+Conventions: 
 allman style 
 camel case
 
-Responsibilites:
-Joti fix even links
-Liz fix odd links
+Responsibilites: 
+Joti fix odd links 
+Liz fix even links 
 all users commit messages must have some meaning
 
 
